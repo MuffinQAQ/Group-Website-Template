@@ -13,16 +13,16 @@
 
 <table>
   <tr>
-    <td width="50%" align="center"><img src="img/home.png" alt="首页" width="100%"><br><b>首页</b>：轮播图与内容区块</td>
-    <td width="50%" align="center"><img src="img/news.png" alt="新闻动态" width="100%"><br><b>新闻动态</b>：分类筛选与分页</td>
+    <td width="50%" align="center"><img src="img/Snipaste_2026-10-31_12-12-06.jpg" alt="首页" width="100%"><br><b>首页</b>：轮播图与内容区块</td>
+    <td width="50%" align="center"><img src="img/Snipaste_2026-10-31_12-12-15.jpg" alt="新闻动态" width="100%"><br><b>新闻动态</b>：分类筛选与分页</td>
   </tr>
   <tr>
-    <td width="50%" align="center"><img src="img/teacher.png" alt="导师团队" width="100%"><br><b>导师团队</b>：成员列表与职称筛选</td>
-    <td width="50%" align="center"><img src="img/teacher-detail.png" alt="导师详情" width="100%"><br><b>导师详情</b>：个人信息与研究介绍</td>
+    <td width="50%" align="center"><img src="img/Snipaste_2026-10-31_12-12-29.jpg" alt="导师团队" width="100%"><br><b>导师团队</b>：成员列表与职称筛选</td>
+    <td width="50%" align="center"><img src="img/Snipaste_2026-10-31_12-12-40.jpg" alt="导师详情" width="100%"><br><b>导师详情</b>：个人信息与研究介绍</td>
   </tr>
   <tr>
-    <td width="50%" align="center"><img src="img/message.png" alt="留言板" width="100%"><br><b>留言板</b>：留言、评论与分页</td>
-    <td width="50%" align="center"><img src="img/admin-dashboard.png" alt="后台控制面板" width="100%"><br><b>后台控制面板</b>：访问统计与内容概览</td>
+    <td width="50%" align="center"><img src="img/Snipaste_2026-10-31_12-12-51.jpg" alt="留言板" width="100%"><br><b>留言板</b>：留言、评论与分页</td>
+    <td width="50%" align="center"><img src="img/Snipaste_2026-10-31_12-13-09.jpg" alt="后台控制面板" width="100%"><br><b>后台控制面板</b>：访问统计与内容概览</td>
   </tr>
 </table>
 
